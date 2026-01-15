@@ -30,8 +30,8 @@ const ContactPage: React.FC = () => {
                                             <i className="iconoir-map-pin"></i>
                                         </div>
                                         <div className="right">
-                                            <span>From</span>
-                                            <h4>Odesa, Ukraine</h4>
+                                            <span>Location</span>
+                                            <h4>Taree, New South Wales, Australia</h4>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center" data-aos="zoom-in">
@@ -39,22 +39,29 @@ const ContactPage: React.FC = () => {
                                             <i className="iconoir-map-pin"></i>
                                         </div>
                                         <div className="right">
-                                            <span>Live in</span>
-                                            <h4>Denver, Colorado</h4>
+                                            <span>Email</span>
+                                            <h4>abc@gmail.com</h4>
+                                        </div>
+                                    </li>
+                                    <li className="d-flex align-items-center" data-aos="zoom-in">
+                                        <div className="icon-box shadow-box">
+                                            <i className="iconoir-map-pin"></i>
+                                        </div>
+                                        <div className="right">
+                                            <span>Phone</span>
+                                            <h4>+61 4 5983 6250</h4>
                                         </div>
                                     </li>
                                 </ul>
 
-                                <h3 data-aos="fade-up">Social Info</h3>
+                                <h3 data-aos="fade-up">My Profile</h3>
                                 <ul className="social-links d-flex align-center" data-aos="zoom-in">
-                                    <li><a className="shadow-box" href="https://www.linkedin.com/in/mrbondarenko/"
+                                    <li><a className="shadow-box" href="https://www.linkedin.com/in/cameron95/"
                                            target="_blank" rel="noopener noreferrer"><i className="iconoir-linkedin"></i></a></li>
-                                    <li><a className="shadow-box" href="https://www.instagram.com/pasha___bond/"
-                                           target="_blank" rel="noopener noreferrer"><i className="iconoir-instagram"></i></a></li>
-                                    <li><a className="shadow-box" href="https://github.com/OfficialCodeVoyage"
+                                    <li><a className="shadow-box" href="https://drive.google.com/file/d/1nzOif1kATDvgbn4NRIX1QvftYuD4mFJf/"
+                                           target="_blank" rel="noopener noreferrer"><i className="iconoir-search-engine"></i></a></li>
+                                    <li><a className="shadow-box" href="https://github.com/abmember"
                                            target="_blank" rel="noopener noreferrer"><i className="iconoir-github"></i></a></li>
-                                    <li><a className="shadow-box" href="https://www.youtube.com/@OfficialCodeVoyage"
-                                           target="_blank" rel="noopener noreferrer"><i className="iconoir-youtube"></i></a></li>
 
                                 </ul>
 

@@ -15,8 +15,8 @@ export const ROUTES = {
 
 // External Links
 export const EXTERNAL_LINKS = {
-  LINKEDIN: 'https://www.linkedin.com/in/mrbondarenko/',
-  GITHUB: 'https://github.com/OfficialCodeVoyage',
+  LINKEDIN: 'https://www.linkedin.com/in/cameron95/',
+  GITHUB: 'https://github.com/abmember',
   YOUTUBE: 'https://www.youtube.com/@OfficialCodeVoyage',
   INSTAGRAM: 'https://www.instagram.com/pasha.369.bond/',
   XE_COM: 'https://www.xe.com',
@@ -36,8 +36,8 @@ export const ANIMATION_CONFIG = {
 
 // Personal Information
 export const PERSONAL_INFO = {
-  NAME: 'Pavlo Bondarenko',
-  TITLE: 'Product @ Xe.com',
+  NAME: 'Cameron Cooke',
+  TITLE: 'Full-Stack Software Developer',
   EMAIL: 'bondarenkopavloua@yahoo.com',
   LOCATION: 'United States',
   YEARS_EXPERIENCE: 4,
@@ -47,10 +47,10 @@ export const PERSONAL_INFO = {
 
 // Site Metadata
 export const SITE_METADATA = {
-  TITLE: 'Pavlo Bondarenko - Product & AI',
-  DESCRIPTION: 'Personal website of Pavlo Bondarenko - Full-stack developer & tech enthusiast. Explore my projects, skills, and professional journey.',
-  URL: 'https://pavlobondarenko.net',
-  KEYWORDS: ['Pavlo Bondarenko', 'full-stack developer', 'software engineer', 'web development', 'portfolio', 'projects'],
+  TITLE: 'Cameron Cooke - Product & AI',
+  DESCRIPTION: 'Personal website of Cameron Cooke - Full-stack developer & tech enthusiast. Explore my projects, skills, and professional journey.',
+  URL: 'https://cameron917.vercel.app',
+  KEYWORDS: ['Cameron Cooke', 'full-stack developer', 'software engineer', 'web development', 'portfolio', 'projects'],
 } as const;
 
 // Image Paths
@@ -87,7 +87,7 @@ export const FORM_CONFIG = {
 export const SOCIAL_LINKS = [
   { name: 'LinkedIn', url: EXTERNAL_LINKS.LINKEDIN, icon: 'iconoir-linkedin' },
   { name: 'GitHub', url: EXTERNAL_LINKS.GITHUB, icon: 'iconoir-github' },
-  { name: 'Instagram', url: EXTERNAL_LINKS.INSTAGRAM, icon: 'iconoir-instagram' },
+  { name: 'Instagram', url: EXTERNAL_LINKS.INSTAGRAM, icon: 'iconoir-search-engine' },
   { name: 'YouTube', url: EXTERNAL_LINKS.YOUTUBE, icon: 'iconoir-youtube' },
 ] as const;
 

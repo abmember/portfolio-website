@@ -12,13 +12,13 @@ export default function ProjectJsonLd({
     '@type': 'SoftwareApplication',
     name: title,
     description: description,
-    url: `https://pavlobondarenko.net${url || ''}`,
-    image: image ? `https://pavlobondarenko.net${image}` : undefined,
+    url: `https://cameron917.vercel.app${url || ''}`,
+    image: image ? `https://cameron917.vercel.app${image}` : undefined,
     applicationCategory: 'WebApplication',
     operatingSystem: 'Any',
     author: {
       '@type': 'Person',
-      name: 'Pavlo Bondarenko',
+      name: 'Cameron Cooke',
     },
     offers: {
       '@type': 'Offer',

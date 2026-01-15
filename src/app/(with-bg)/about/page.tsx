@@ -35,11 +35,10 @@ const AboutPage: React.FC = () => {
                                 src="/images/star-2.png" alt=""/></h2>
                             <div className="about-details-inner shadow-box">
                                 <img src="/images/icon2.png" alt=""/>
-                                <h1 style={{marginTop: '-35px'}}><span>Pavlo Bondarenko</span></h1>
+                                <h1 style={{marginTop: '-35px'}}><span>Cameron Cooke</span></h1>
                                 <p>
-  I swapped my code wizard cape for a product manager hat—mixing tech savvy with a splash of fun to build awesome, scalable solutions.
- Always ready to innovate and create next-level products. Always smiling :)
-</p>
+                                    Senior Full-Stack Developer with 7+ years of experience building scalable web and mobile applications using modern stacks like React, TypeScript, Node.js, Next.js, and Python/Django. 
+                                </p>
                             </div>
 
                         </div>
@@ -49,22 +48,27 @@ const AboutPage: React.FC = () => {
                         <div className="col-md-6" data-aos="zoom-in">
                             <div className="about-edc-exp about-experience shadow-box">
                                 <img src="/images/bg1.png" alt="" className="bg-img"/>
-                                <h3>EXPERIENCE</h3>
+                                <h2>EXPERIENCE</h2>
 
                                 <ul>
-                                <li>
-                                        <p className="date">01/2025 - Present</p>
-                                        <h2>Associate Product Manager</h2>
-                                        <p className="type"><Link href="https://www.xe.com"
-                                                                  style={{color: '#98D2E6', fontSize: '18px'}}>Xe.com</Link>
-                                        </p>
+                                    <li>
+                                            <p className="date">11/2024 - Present</p>
+                                            <h2>Senior Full-Stack Developer</h2>
+                                            <p className="type"><Link href="https://redisoftware.com.au/"
+                                                                    style={{color: '#98D2E6', fontSize: '18px'}} target='_blank'>Redi Software</Link>
+                                            </p>
                                     </li>
                                     <li>
-                                        <p className="date">01/2021 - 04/2024</p>
-                                        <h2>Software Engineer & Cloud Solutions Engineer</h2>
-                                        <p className="type"><Link href="https://qit.software/"
-                                                                  style={{color: '#98D2E6', fontSize: '18px'}}>QIT
-                                            Software</Link></p>
+                                        <p className="date">05/2023 - 10/2024</p>
+                                        <h2>Full-Stack Developer</h2>
+                                        <p className="type"><Link href="https://softcircles.com/"
+                                                                    style={{color: '#98D2E6', fontSize: '18px'}}>SoftCircles</Link></p>
+                                    </li>
+                                    <li>
+                                        <p className="date">09/2021 - 04/2023</p>
+                                        <h2>Web Developer</h2>
+                                        <p className="type"><Link href="https://www.lancesoft.com/"
+                                                                    style={{color: '#98D2E6', fontSize: '18px'}}>LanceSoft Inc</Link></p>
                                     </li>
                                 </ul>
                             </div>
@@ -72,24 +76,29 @@ const AboutPage: React.FC = () => {
                         <div className="col-md-6" data-aos="zoom-in">
                             <div className="about-edc-exp about-education shadow-box">
                                 <img src="/images/bg1.png" alt="" className="bg-img"/>
-                                <h3>EDUCATION</h3>
-
                                 <ul>
                                     <li>
-                                        <p className="date">2023 - 2024</p>
-                                        <h2>B.S. in Computer Science</h2>
-                                        <p className="type"><Link href="https://www.unt.edu/index.html"
-                                                                  style={{color: '#98D2E6', fontSize: '18px'}}>University
-                                            of North
-                                            Texas</Link></p>
+                                        <p className="date">03/2019 - 08/2021</p>
+                                        <h2>Front-End Developer</h2>
+                                        <p className="type"><Link href="https://www.phocassoftware.com/"
+                                                                  style={{color: '#98D2E6', fontSize: '18px'}}>Phocas Software</Link></p>
                                     </li>
                                     <li>
-                                        <p className="date">2011 - 2015</p>
-                                        <h2>B.S. in Computer Engineering</h2>
-                                        <p className="type"><Link href="https://op.edu.ua/en"
+                                        <p className="date">12/2017 - 02/2019</p>
+                                        <h2>Jnuior Front-End Developer</h2>
+                                        <p className="type"><Link href="https://ausnepit.com.au/"
                                                                   style={{color: '#98D2E6', fontSize: '18px'}}>Odesа
-                                            Polytechnic
-                                            National University</Link></p>
+                                            AusNep IT Solutions</Link></p>
+                                    </li>
+                                </ul>
+                                <hr />
+                                <h2>EDUCATION</h2>
+                                <ul>
+                                    <li>
+                                        <p className="date">2014 - 2017</p>
+                                        <h2>B.S. in Computer Science</h2>
+                                        <p className="type"><Link href="https://www.uts.edu.au/"
+                                                                  style={{color: '#98D2E6', fontSize: '18px'}}>University of Technology Sydney</Link></p>
                                     </li>
                                 </ul>
                             </div>
@@ -105,15 +114,14 @@ const AboutPage: React.FC = () => {
                                         <img src="/images/bg1.png" alt="" className="bg-img"/>
                                         <div className="inner-profile-icons shadow-box">
                                             <Link target="_blank" rel="noopener noreferrer" className="linkedln"
-                                                  href="https://www.linkedin.com/in/mrbondarenko/">
+                                                  href="https://www.linkedin.com/in/cameron95/">
                                                 <i className="iconoir-linkedin"></i>
                                             </Link>
-                                            <Link target="_blank" rel="noopener noreferrer"
-                                                  href="https://www.instagram.com/pasha___bond/">
-                                                <i className="iconoir-instagram"></i>
+                                            <Link target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1nzOif1kATDvgbn4NRIX1QvftYuD4mFJf">
+                                                <i className="iconoir-search-engine"></i>
                                             </Link>
                                             <Link target="_blank" rel="noopener noreferrer"
-                                                  href="https://github.com/OfficialCodeVoyage">
+                                                  href="https://github.com/abmember">
                                                 <i className="iconoir-github"></i>
                                             </Link>
                                         </div>
@@ -145,16 +153,16 @@ const AboutPage: React.FC = () => {
 
                                 <div data-aos="zoom-in" className="h-full">
                                     <div className="about-crenditials-box info-box shadow-box">
-                                        <Link className="overlay-link" href="/Pavlo_Bondarenko_Resume.pdf" target="_blank" rel="noopener noreferrer"></Link>
+                                        <Link className="overlay-link" href="https://drive.google.com/file/d/1nzOif1kATDvgbn4NRIX1QvftYuD4mFJf" target="_blank" rel="noopener noreferrer"></Link>
                                         <img src="/images/bg1.png" alt="" className="bg-img"/>
                                         <img src="/images/resume.png" style={{height: '124px'}} alt="Resume preview icon"/>
                                         <div className="d-flex align-items-center justify-content-between">
                                             <div className="infos">
-                                                <h4>Download My</h4>
+                                                <h4>View My </h4>
                                                 <h2>Updated Resume</h2>
                                             </div>
 
-                                            <a href="/Pavlo_Bondarenko_Resume.pdf" target="_blank" rel="noopener noreferrer" className="about-btn">
+                                            <a href="https://drive.google.com/file/d/1nzOif1kATDvgbn4NRIX1QvftYuD4mFJf" target="_blank" rel="noopener noreferrer" className="about-btn">
                                                 <img src="/images/icon.svg" alt=""/>
                                             </a>
 

@@ -2,7 +2,7 @@ export const metadata = {
   title: "Projects Portfolio",
   description: "Portfolio of 76+ innovative projects including PrescribeRX (prescription management), COUGAR AI Bot (university assistant), NurseAI (emergency response), AMBER ALERT + TESLA (child safety), SizeMe (virtual fitting), AstrosDebugger (data science), $SeeTheFuture (AI stock predictor), RestoreIO (surgery recovery), and MemoryPalace (senior care). Expertise in AI, fintech, healthcare, OpenCV, PyTorch, React Native, and cloud solutions.",
   keywords: [
-    "Pavlo Bondarenko projects",
+    "Cameron Cooke projects",
     "Product Manager portfolio",
     "AI projects",
     "Healthcare technology",
@@ -26,15 +26,15 @@ export const metadata = {
   ],
   openGraph: {
     type: "website",
-    url: "https://pavlobondarenko.net/projects",
+    url: "https://cameron917.vercel.app/projects",
     title: "76+ Innovative Projects - AI, Healthcare, Fintech & More",
     description: "Explore my portfolio of innovative projects: PrescribeRX, AI chatbots, emergency response systems, fintech apps, and healthcare solutions. Built with React Native, OpenCV, PyTorch, and cloud technologies.",
     images: [
       {
-        url: "https://pavlobondarenko.net/images/projects/update5172025/v1/prescriberx.png",
+        url: "https://cameron917.vercel.app/images/projects/update5172025/v1/prescriberx.png",
         width: 1200,
         height: 630,
-        alt: "Pavlo Bondarenko Projects Portfolio - 76+ Innovative Solutions",
+        alt: "Cameron Cooke Projects Portfolio - 76+ Innovative Solutions",
       },
     ],
   },
@@ -42,9 +42,9 @@ export const metadata = {
     card: "summary_large_image",
     title: "76+ Innovative Projects | AI, Healthcare & Fintech",
     description: "Portfolio featuring PrescribeRX, AI chatbots, emergency systems, fintech apps & more. Built with React Native, OpenCV, PyTorch, Azure & AWS.",
-    images: ["https://pavlobondarenko.net/images/projects/update5172025/v1/prescriberx.png"],
+    images: ["https://cameron917.vercel.app/images/projects/update5172025/v1/prescriberx.png"],
   },
   alternates: {
-    canonical: "https://pavlobondarenko.net/projects",
+    canonical: "https://cameron917.vercel.app/projects",
   },
 }; 

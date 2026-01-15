@@ -22,9 +22,9 @@ const HomePage: React.FC = () => {
                   </div>
                   <div className="infos">
                     <h4></h4>
-                    <h1>Pavlo Bondarenko</h1>
+                    <h1>Cameron Cooke</h1>
                     <p className="text-lg">
-                      <i style={{fontSize: '0.95rem'}}>Product @ Xe.com</i>
+                      <i style={{fontSize: '0.95rem'}}>Full-Stack Software Developer</i>
                     </p>
                     <Link href="#" className="about-btn" onClick={(e) => e.preventDefault()}>
                       <img src="/images/icon.svg" alt=""/>
@@ -69,7 +69,7 @@ const HomePage: React.FC = () => {
                       <div className="about-crenditials-box info-box shadow-box h-full">
                         <Link className="overlay-link" href="/about"></Link>
                         <Image src="/images/bg1.png" alt="" className="bg-img" fill style={{ objectFit: 'cover' }} />
-                        <Image src="/images/pbsignature.png" alt="Pavlo Bondarenko signature" width={400} height={200} style={{ width: '100%', height: 'auto' }} loading="lazy" />
+                        <Image src="/images/pbsignature.png" alt="Cameron Cooke signature" width={400} height={200} style={{ width: '100%', height: 'auto' }} loading="lazy" />
                         <div className="d-flex align-items-center justify-content-between">
                           <div className="infos">
                             <h4>Credentials</h4>
@@ -113,17 +113,17 @@ const HomePage: React.FC = () => {
                 <div className="blog-service-profile-wrap d-flex gap-24">
                   <div data-aos="zoom-in">
                     <div className="about-blog-box info-box shadow-box h-full">
-                      <Link target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@OfficialCodeVoyage"
+                      <Link target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1nzOif1kATDvgbn4NRIX1QvftYuD4mFJf"
                          className="overlay-link"></Link>
                       <img src="/images/bg1.png" alt="" className="bg-img"/>
-                      <Image src="/images/yt1.png" height={126} width={200} alt="YouTube channel - OfficialCodeVoyage" style={{opacity: '1', width: 'auto', height: 'auto', maxWidth: '200px'}} loading="lazy" />
+                      <Image src="/images/mwd.png" height={126} width={200} alt="YouTube channel - OfficialCodeVoyage" style={{opacity: '1', width: 'auto', height: 'auto', maxWidth: '200px'}} loading="lazy" />
                       <div className="d-flex align-items-center justify-content-between">
                         <div className="infos">
-                          <h4>My hobby</h4>
-                          <h2>YouTube</h2>
+                          <h4>Here is updated</h4>
+                          <h2>Resume</h2>
                         </div>
 
-                        <Link href="https://www.youtube.com/@OfficialCodeVoyage" target="_blank" rel="noopener noreferrer" className="about-btn">
+                        <Link href="https://drive.google.com/file/d/1nzOif1kATDvgbn4NRIX1QvftYuD4mFJf" target="_blank" rel="noopener noreferrer" className="about-btn">
                           <img src="/images/icon.svg" alt=""/>
                         </Link>
 
@@ -178,14 +178,14 @@ const HomePage: React.FC = () => {
                       <img src="/images/bg1.png" alt="" className="bg-img"/>
                       <div className="inner-profile-icons shadow-box">
                         <Link target="_blank" rel="noopener noreferrer" className="linkedln"
-                              href="https://www.linkedin.com/in/mrbondarenko/">
+                              href="https://www.linkedin.com/in/cameron95/">
                           <i className="iconoir-linkedin"></i>
                         </Link>
                         <Link target="_blank" rel="noopener noreferrer"
-                              href="https://www.instagram.com/pasha.369.bond/">
-                          <i className="iconoir-instagram"></i>
+                              href="https://drive.google.com/file/d/1nzOif1kATDvgbn4NRIX1QvftYuD4mFJf">
+                          <i className="iconoir-search-engine"></i>
                         </Link>
-                        <Link target="_blank" rel="noopener noreferrer" href="https://github.com/OfficialCodeVoyage">
+                        <Link target="_blank" rel="noopener noreferrer" href="https://github.com/abmember">
                           <i className="iconoir-github"></i>
                         </Link>
 
@@ -216,7 +216,7 @@ const HomePage: React.FC = () => {
                   <img src="/images/bg1.png" alt="BG" className="bg-img"/>
                   <div className="clients d-flex align-items-start gap-24 justify-content-center">
                     <div className="client-item client-item-bg1">
-                      <h2>04</h2>
+                      <h2>7+</h2>
                       <p>Years <br/>Experience</p>
                     </div>
 
@@ -226,7 +226,7 @@ const HomePage: React.FC = () => {
                     </div>
 
                     <div className="client-item client-item-bg3">
-                      <h2>+76</h2>
+                      <h2>56+</h2>
                       <p>Total <br/>Projects</p>
                     </div>
                   </div>

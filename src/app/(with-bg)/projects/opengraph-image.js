@@ -4,7 +4,7 @@ import { ImageResponse } from 'next/og';
 export const runtime = 'edge';
 
 // Image metadata
-export const alt = 'Projects by Pavlo Bondarenko - Work Portfolio';
+export const alt = 'Projects by Cameron Cooke - Work Portfolio';
 export const size = {
   width: 1200,
   height: 630,
@@ -51,7 +51,7 @@ export default async function Image() {
             textAlign: 'center',
           }}
         >
-          Pavlo Bondarenko - Portfolio Showcase
+          Cameron Cooke - Portfolio Showcase
         </div>
       </div>
     ),

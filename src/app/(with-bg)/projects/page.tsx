@@ -25,19 +25,19 @@ const WorkPage: React.FC = () => {
                         <div className="col-md-4">
                             <div data-aos="zoom-in">
                                 <div className="project-item shadow-box">
-                                    <Link className="overlay-link" href="https://devpost.com/software/prescriberx"
+                                    <Link className="overlay-link" href="https://devpost.com/software/elenchus-lvjeki"
                                           target="_blank" rel="noopener noreferrer"></Link>
-                                    <img src="/images/bg1.png" alt="" className="bg-img"/>
+                                    <img src="/images/ele1.png" alt="" className="bg-img"/>
                                     <div className="project-img">
-                                        <img src="/images/projects/update5172025/v1/prescriberx.png" style={{width: '350px', height: '300px'}} alt="PrescribeRX"/>
+                                        <img src="/images/projects/update5172025/v1/ele1.png" style={{width: '350px', height: '300px'}} alt="PrescribeRX "/>
                                     </div>
                                     <div className="d-flex align-items-center justify-content-between">
                                         <div className="project-info">
-                                            <p>Mobile App</p>
-                                            <h2>PrescribeRX</h2>
-                                            <p style={{fontSize: '14px'}}>Advanced Prescription Management</p>
+                                            <p>Astro JS, MERN</p>
+                                            <h2>Elenchus App</h2>
+                                            <p style={{fontSize: '14px'}}>Research Tool</p>
                                         </div>
-                                        <Link href="https://devpost.com/software/prescriberx" target="_blank" rel="noopener noreferrer"
+                                        <Link href="https://devpost.com/software/elenchus-lvjeki" target="_blank" rel="noopener noreferrer"
                                               className="project-btn">
                                             <img src="/images/icon.svg" alt=""/>
                                         </Link>
@@ -47,19 +47,19 @@ const WorkPage: React.FC = () => {
 
                             <div data-aos="zoom-in">
                                 <div className="project-item shadow-box">
-                                    <Link className="overlay-link" href="https://devpost.com/software/tbd-tmzb5j"
+                                    <Link className="overlay-link" href="https://www.cartier.com/en-au"
                                           target="_blank" rel="noopener noreferrer"></Link>
                                     <img src="/images/bg1.png" alt="" className="bg-img"/>
                                     <div className="project-img">
-                                        <img src="/images/projects/update5172025/v1/cougargpt.png" style={{width: '350px', height: '300px'}} alt="COUGAR (UH) Bot"/>
+                                        <img src="/images/projects/update5172025/v1/car1.png" style={{width: '350px', height: '300px'}} alt="Cartier"/>
                                     </div>
                                     <div className="d-flex align-items-center justify-content-between">
                                         <div className="project-info">
-                                            <p>AI Bot (RAG)</p>
-                                            <h2>COUGAR (UH) Bot</h2>
-                                            <p style={{fontSize: '14px'}}>University Helper Bot</p>
+                                            <p>React, Three.js</p>
+                                            <h2>Cartier</h2>
+                                            <p style={{fontSize: '14px'}}>Watchmaker Offical Website</p>
                                         </div>
-                                        <Link href="https://devpost.com/software/tbd-tmzb5j" target="_blank" rel="noopener noreferrer"
+                                        <Link href="https://www.cartier.com/en-au" target="_blank" rel="noopener noreferrer"
                                               className="project-btn">
                                             <img src="/images/icon.svg" alt=""/>
                                         </Link>
@@ -69,19 +69,21 @@ const WorkPage: React.FC = () => {
 
                             <div data-aos="zoom-in">
                                 <div className="project-item shadow-box">
-                                    <Link className="overlay-link" href="https://devpost.com/software/nurseai-gr7p84"
+                                    <Link className="overlay-link" href="https://ozcart.com/"
                                           target="_blank" rel="noopener noreferrer"></Link>
                                     <img src="/images/bg1.png" alt="" className="bg-img"/>
                                     <div className="project-img">
-                                        <img src="/images/projects/update5172025/v1/nurseai.png" style={{width: '350px', height: '300px'}} alt="NurseAI"/>
+                                        <img src="/images/projects/update5172025/v1/cart1.png" style={{width: '350px', height: '300px'}} alt="cart1"/>
                                     </div>
                                     <div className="d-flex align-items-center justify-content-between">
                                         <div className="project-info">
-                                            <p>LLM + Emergency Button</p>
-                                            <h2>NurseAI</h2>
-                                            <p style={{fontSize: '14px'}}>Emergency Button with AI features</p>
+                                            <p>GSAP, PHP, MySQL</p>
+                                            <h2>Ozcart</h2>
+                                            <p style={{fontSize: '14px'}}>
+                                                Ozcart is a hosted online shopping cart solution with country-specific features.
+                                            </p>
                                         </div>
-                                        <Link href="https://devpost.com/software/nurseai-gr7p84" target="_blank" rel="noopener noreferrer"
+                                        <Link href="https://ozcart.com/" target="_blank" rel="noopener noreferrer"
                                               className="project-btn">
                                             <img src="/images/icon.svg" alt=""/>
                                         </Link>
@@ -99,21 +101,21 @@ const WorkPage: React.FC = () => {
                                 <div data-aos="zoom-in" className="flex-1">
                                     <div className="project-item shadow-box">
                                         <Link className="overlay-link"
-                                              href="https://devpost.com/software/pavlo_bondarenko_hello_world"
+                                              href="https://devpost.com/software/tatacliq-platform"
                                               target="_blank" rel="noopener noreferrer"></Link>
                                         <img src="/images/bg1.png" alt="" className="bg-img"/>
                                         <div className="project-img">
-                                            <img src="/images/projects/update5172025/v1/ambertesla.png"
+                                            <img src="/images/projects/update5172025/v1/fab1.png"
                                                  style={{width: '350px', height: '300px'}}
-                                                 alt="AMBER ALERT + TESLA!"/>
+                                                 alt="The Fabulous"/>
                                         </div>
                                         <div className="d-flex align-items-center justify-content-between">
                                             <div className="project-info">
-                                                <p>OpenCV + PyTorch</p>
-                                                <h2>AMBER ALERT + TESLA!</h2>
+                                                <p>Android, Mobile App</p>
+                                                <h2>The Fabulous</h2>
                                                 <p style={{fontSize: '16px'}}>Child Safety & Vehicle Integration</p>
                                             </div>
-                                            <Link href="https://devpost.com/software/pavlo_bondarenko_hello_world"
+                                            <Link href="https://devpost.com/software/tatacliq-platform"
                                                   target="_blank" rel="noopener noreferrer" className="project-btn">
                                                 <img src="/images/icon.svg" alt=""/>
                                             </Link>
@@ -124,18 +126,18 @@ const WorkPage: React.FC = () => {
                                 <div data-aos="zoom-in" className="flex-1">
                                     <div className="project-item shadow-box">
                                         <Link className="overlay-link"
-                                              href="https://devpost.com/software/e-commerce-app-b5lrem"
+                                              href="https://devpost.com/software/crowdchain"
                                               target="_blank" rel="noopener noreferrer"></Link>
                                         <img src="/images/bg1.png" alt="" className="bg-img"/>
                                         <div className="project-img">
-                                            <img src="/images/projects/update5172025/v1/SizeMeProject.png"
-                                                 style={{width: '350px', height: '300px'}} alt="SizeMe: eCommerce"/>
+                                            <img src="/images/projects/update5172025/v1/crod1.png"
+                                                 style={{width: '350px', height: '300px'}} alt="CrowdChain"/>
                                         </div>
                                         <div className="d-flex align-items-center justify-content-between">
                                             <div className="project-info">
-                                                <p>OpenCV + Azure Cloud</p>
-                                                <h2>SizeMe: eCommerce</h2>
-                                                <p style={{fontSize: '14px'}}>Virtual Fitting Room for Online Shopping</p>
+                                                <p>Next, TypeScript, Solidity, Wagmi</p>
+                                                <h2>CrowdChain</h2>
+                                                <p style={{fontSize: '14px'}}>Blockchain and Crypto Project</p>
                                             </div>
                                             <Link href="https://devpost.com/software/e-commerce-app-b5lrem"
                                                   target="_blank" rel="noopener noreferrer"
@@ -150,19 +152,19 @@ const WorkPage: React.FC = () => {
                             <div className="d-flex align-items-start gap-24">
                                 <div data-aos="zoom-in" className="flex-1">
                                     <div className="project-item shadow-box">
-                                        <Link className="overlay-link" href="https://devpost.com/software/tbd-znafp1"
+                                        <Link className="overlay-link" href="https://devpost.com/software/cryptus-nine"
                                               target="_blank" rel="noopener noreferrer"></Link>
                                         <img src="/images/bg1.png" alt="" className="bg-img"/>
                                         <div className="project-img">
-                                            <img src="/images/projects/update5172025/v1/astros.png" style={{width: '350px', height: '300px'}} alt="AstrosDebugger"/>
+                                            <img src="/images/projects/update5172025/v1/cry2.png" style={{width: '350px', height: '300px'}} alt="AstrosDebugger"/>
                                         </div>
                                         <div className="d-flex align-items-center justify-content-between">
                                             <div className="project-info">
-                                                <p>Data Science Project</p>
-                                                <h2>AstrosDebugger</h2>
+                                                <p>Next.js, TypeScript, TailwindCSS</p>
+                                                <h2>Cryptus Nine</h2>
                                                 <p style={{fontSize: '14px'}}>Data-Driven Debugging Tool</p>
                                             </div>
-                                            <Link href="https://devpost.com/software/tbd-znafp1" target="_blank" rel="noopener noreferrer"
+                                            <Link href="https://devpost.com/software/cryptus-nine" target="_blank" rel="noopener noreferrer"
                                                   className="project-btn">
                                                 <img src="/images/icon.svg" alt=""/>
                                             </Link>
@@ -172,18 +174,18 @@ const WorkPage: React.FC = () => {
 
                                 <div data-aos="zoom-in" className="flex-1">
                                     <div className="project-item shadow-box">
-                                        <Link className="overlay-link" href="https://devpost.com/software/seethefuture"
+                                        <Link className="overlay-link" href="https://www.jacadatravel.com/"
                                               target="_blank" rel="noopener noreferrer"></Link>
                                         <img src="/images/bg1.png" alt="" className="bg-img"/>
                                         <div className="project-img">
-                                            <img src="/images/projects/update5172025/v1/seethefuture.png" style={{width: '350px', height: '300px'}}
+                                            <img src="/images/projects/update5172025/v1/jaca.png" style={{width: '350px', height: '300px'}}
                                                  alt="$SeeTheFuture"/>
                                         </div>
                                         <div className="d-flex align-items-center justify-content-between">
                                             <div className="project-info">
-                                                <p>Fintech App</p>
-                                                <h2>$SeeTheFuture</h2>
-                                                <p style={{fontSize: '14px'}}>AI Stock Market Predictor</p>
+                                                <p>React, Next.js, PHP, MySQL</p>
+                                                <h2>Jacada</h2>
+                                                <p style={{fontSize: '14px'}}>Tours in Australia</p>
                                             </div>
                                             <Link href="https://devpost.com/software/seethefuture" target="_blank" rel="noopener noreferrer"
                                                   className="project-btn">
@@ -197,50 +199,23 @@ const WorkPage: React.FC = () => {
                             <div className="d-flex align-items-start gap-24">
                                 <div data-aos="zoom-in" className="flex-1">
                                     <div className="project-item shadow-box">
-                                        <Link className="overlay-link"
-                                              href="https://devpost.com/software/tbd-ir3qd5"
-                                              target="_blank" rel="noopener noreferrer"></Link>
+
                                         <img src="/images/bg1.png" alt="" className="bg-img"/>
                                         <div className="project-img">
-                                            <img src="/images/projects/update5172025/v1/restoreio.png"
+                                            <img src="/images/projects/update5172025/v1/soon.png"
                                                  style={{width: '350px', height: '300px'}}
                                                  alt="RestoreIO"/>
-                                        </div>
-                                        <div className="d-flex align-items-center justify-content-between">
-                                            <div className="project-info">
-                                                <p>LLM + OpenCV</p>
-                                                <h2>RestoreIO</h2>
-                                                <p style={{fontSize: '14px'}}>After Surgery Recovery Assistant</p>
-                                            </div>
-                                            <Link href="https://devpost.com/software/tbd-ir3qd5"
-                                                  target="_blank" rel="noopener noreferrer" className="project-btn">
-                                                <img src="/images/icon.svg" alt=""/>
-                                            </Link>
                                         </div>
                                     </div>
                                 </div>
 
                                 <div data-aos="zoom-in" className="flex-1">
                                     <div className="project-item shadow-box">
-                                        <Link className="overlay-link"
-                                              href="https://devpost.com/software/memory-palace-bnofj5"
-                                              target="_blank" rel="noopener noreferrer"></Link>
+
                                         <img src="/images/bg1.png" alt="" className="bg-img"/>
                                         <div className="project-img">
-                                            <img src="/images/projects/update5172025/v1/memorypalace.png"
+                                            <img src="/images/projects/update5172025/v1/soon.png"
                                                  style={{width: '350px', height: '300px'}} alt="MemoryPalace"/>
-                                        </div>
-                                        <div className="d-flex align-items-center justify-content-between">
-                                            <div className="project-info">
-                                                <p>LLM + Game</p>
-                                                <h2>MemoryPalace</h2>
-                                                <p style={{fontSize: '14px'}}>Helping seniors preserve their memories</p>
-                                            </div>
-                                            <Link href="https://devpost.com/software/memory-palace-bnofj5"
-                                                  target="_blank" rel="noopener noreferrer"
-                                                  className="project-btn">
-                                                <img src="/images/icon.svg" alt=""/>
-                                            </Link>
                                         </div>
                                     </div>
                                 </div>

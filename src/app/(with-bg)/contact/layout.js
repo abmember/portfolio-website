@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-    title: "Pavlo Bondarenko - Let's Connect",
+    title: "Cameron Cooke - Let's Connect",
 };
 
 export default function ContactLayout({ children }) {

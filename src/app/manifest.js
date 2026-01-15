@@ -1,8 +1,8 @@
 export default function manifest() {
   return {
-    name: 'Pavlo Bondarenko - Full-Stack Developer',
-    short_name: 'Pavlo Bondarenko',
-    description: 'Personal website of Pavlo Bondarenko - Full-stack developer & tech enthusiast.',
+    name: 'Cameron Cooke - Senior Full-Stack Developer',
+    short_name: 'Cameron Cooke',
+    description: 'Personal website of Cameron Cooke - Full-stack developer & tech enthusiast.',
     start_url: '/',
     display: 'standalone',
     background_color: '#FFFFFF',

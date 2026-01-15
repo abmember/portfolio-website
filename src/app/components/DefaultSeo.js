@@ -23,7 +23,7 @@ export default function DefaultSeo() {
         },
         {
           rel: 'canonical',
-          href: 'https://pavlobondarenko.net',
+          href: 'https://cameron917.vercel.app',
         },
       ]}
     />

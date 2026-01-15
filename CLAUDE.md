@@ -1,8 +1,8 @@
 # CLAUDE.md - Project Documentation
 
 **Last Updated**: January 19, 2025 (Evening Session)
-**Project**: Pavlo Bondarenko Portfolio Website
-**Live URL**: https://pavlobondarenko.net
+**Project**: Cameron Cooke Portfolio Website
+**Live URL**: https://cameron917.vercel.app
 **Repository**: https://github.com/OfficialCodeVoyage/PavloBondarenko.net
 
 ---
@@ -25,7 +25,7 @@
 
 ## Project Overview
 
-This is a sophisticated personal portfolio website for Pavlo Bondarenko, Associate Product Manager at Xe.com. Built with modern web technologies, it features 3D graphics, animations, professional UI/UX design, and comprehensive SEO optimization.
+This is a sophisticated personal portfolio website for Cameron Cooke, Associate Product Manager at Xe.com. Built with modern web technologies, it features 3D graphics, animations, professional UI/UX design, and comprehensive SEO optimization.
 
 ### Purpose
 
@@ -729,7 +729,7 @@ npm run test:e2e:headed      # See browser actions
 
 - Allows all user agents
 - Disallows: /blog, /blog-details, /credentials, /work-details
-- Sitemap: https://pavlobondarenko.net/sitemap.xml
+- Sitemap: https://cameron917.vercel.app/sitemap.xml
 
 **Sitemap.xml** (`src/app/sitemap.js`):
 
@@ -1012,7 +1012,7 @@ npm run test:e2e:headed      # See browser actions
 ### Git Statistics
 
 - **Total Commits**: 127
-- **Contributors**: 1 (Pavlo Bondarenko)
+- **Contributors**: 1 (Cameron Cooke)
 - **Active Development**: 2024-2025
 - **Commit Frequency**: Regular (2-3 commits per development session)
 - **Latest Session**: January 19, 2025 (3 commits - CI/CD fixes)
@@ -1101,11 +1101,11 @@ npm run test:e2e:headed      # See browser actions
 
 ## Contact & Support
 
-**Developer**: Pavlo Bondarenko
+**Developer**: Cameron Cooke
 **Role**: Associate Product Manager at Xe.com
 **LinkedIn**: https://www.linkedin.com/in/mrbondarenko/
 **GitHub**: https://github.com/OfficialCodeVoyage
-**Website**: https://pavlobondarenko.net
+**Website**: https://cameron917.vercel.app
 **Email**: via contact form on website
 
 ---

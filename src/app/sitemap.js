@@ -1,5 +1,5 @@
 export default function sitemap() {
-  const baseUrl = 'https://pavlobondarenko.net';
+  const baseUrl = 'https://cameron917.vercel.app';
   
   return [
     {

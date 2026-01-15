@@ -4,7 +4,7 @@ import { ImageResponse } from 'next/og';
 export const runtime = 'edge';
 
 // Image metadata
-export const alt = 'Pavlo Bondarenko Blog - Web Development Insights';
+export const alt = 'Cameron Cooke Blog - Web Development Insights';
 export const size = {
   width: 1200,
   height: 630,
@@ -51,7 +51,7 @@ export default async function Image() {
             textAlign: 'center',
           }}
         >
-          Web Development Articles by Pavlo Bondarenko
+          Web Development Articles by Cameron Cooke
         </div>
       </div>
     ),

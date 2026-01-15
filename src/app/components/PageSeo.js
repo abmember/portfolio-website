@@ -6,8 +6,8 @@ export default function PageSeo({ type = 'Website', title, description, url, ima
     '@type': type,
     name: title,
     description: description,
-    url: `https://pavlobondarenko.net${url || ''}`,
-    ...(image && { image: `https://pavlobondarenko.net${image}` }),
+    url: `https://cameron917.vercel.app${url || ''}`,
+    ...(image && { image: `https://cameron917.vercel.app${image}` }),
   };
 
   return (

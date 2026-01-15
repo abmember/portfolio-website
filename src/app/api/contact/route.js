@@ -203,14 +203,14 @@ export async function POST(request) {
         const autoReplyData = {
             from: process.env.RESEND_FROM_EMAIL || 'noreply@yourdomain.com',
             to: email,
-            subject: `✅ Thank you for contacting Pavlo Bondarenko`,
+            subject: `✅ Thank you for contacting Cameron Cooke`,
             html: `
                 <!DOCTYPE html>
                 <html>
                 <head>
                     <meta charset="utf-8">
                     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                    <title>Thank You - Pavlo Bondarenko</title>
+                    <title>Thank You - Cameron Cooke</title>
                 </head>
                 <body style="margin: 0; padding: 0; background: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;">
                     
@@ -291,7 +291,7 @@ export async function POST(request) {
                                    style="display: inline-block; background: linear-gradient(135deg, #0077b5 0%, #005885 100%); color: #ffffff; padding: 14px 32px; border-radius: 8px; text-decoration: none; font-weight: 500; font-size: 15px; margin-right: 12px; box-shadow: 0 2px 8px rgba(0, 119, 181, 0.2);">
                                     💼 Connect on LinkedIn
                                 </a>
-                                <a href="https://github.com/OfficialCodeVoyage" 
+                                <a href="https://github.com/abmember" 
                                    style="display: inline-block; background: linear-gradient(135deg, #24292e 0%, #0d1117 100%); color: #ffffff; padding: 14px 32px; border-radius: 8px; text-decoration: none; font-weight: 500; font-size: 15px; box-shadow: 0 2px 8px rgba(36, 41, 46, 0.2);">
                                     🐙 View GitHub
                                 </a>
@@ -300,7 +300,7 @@ export async function POST(request) {
                             <!-- Signature -->
                             <p style="color: #666666; font-size: 15px; line-height: 1.6; margin: 0;">
                                 Best regards,<br>
-                                <strong style="color: #1a1a1a;">Pavlo Bondarenko</strong><br>
+                                <strong style="color: #1a1a1a;">Cameron Cooke</strong><br>
                                 Full Stack Developer
                             </p>
                         </div>
@@ -316,7 +316,7 @@ export async function POST(request) {
                 </html>
             `,
             text: `
-                Thank you for contacting Pavlo Bondarenko!
+                Thank you for contacting Cameron Cooke!
                 
                 Hi ${fullName.split(' ')[0]},
                 
@@ -329,10 +329,10 @@ export async function POST(request) {
                 
                 Let's connect:
                 LinkedIn: https://www.linkedin.com/in/mrbondarenko/
-                GitHub: https://github.com/OfficialCodeVoyage
+                GitHub: https://github.com/abmember
                 
                 Best regards,
-                Pavlo Bondarenko
+                Cameron Cooke
                 Full Stack Developer
                 
                 ---

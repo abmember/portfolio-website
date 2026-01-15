@@ -2,26 +2,26 @@
 // The DefaultSeo component will use these settings as a base
 
 export default {
-  titleTemplate: '%s | Pavlo Bondarenko',
-  defaultTitle: 'Pavlo Bondarenko - Full-Stack Developer',
-  description: 'Personal website of Pavlo Bondarenko - Full-stack developer & tech enthusiast. Explore my projects, skills, and professional journey.',
+  titleTemplate: '%s | Cameron Cooke',
+  defaultTitle: 'Cameron Cooke - Full-Stack Developer',
+  description: 'Personal website of Cameron Cooke - Full-stack developer & tech enthusiast. Explore my projects, skills, and professional journey.',
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://pavlobondarenko.net',
-    siteName: 'Pavlo Bondarenko',
+    url: 'https://cameron0917.vercel.app/',
+    siteName: 'Cameron Cooke',
     images: [
       {
-        url: 'https://pavlobondarenko.net/api/og',
+        url: 'https://cameron0917.vercel.app//api/og',
         width: 1200,
         height: 630,
-        alt: 'Pavlo Bondarenko',
+        alt: 'Cameron Cooke',
       },
     ],
   },
   twitter: {
-    handle: '@pavlobondarenko',
-    site: '@pavlobondarenko',
+    handle: '@cameron',
+    site: '@cameron',
     cardType: 'summary_large_image',
   },
   additionalLinkTags: [

@@ -9,7 +9,7 @@ A sophisticated personal portfolio website showcasing advanced full-stack develo
 
 ## 🚀 Live Portfolio
 
-Visit the live portfolio: **[pavlobondarenko.net](https://pavlobondarenko.net)**
+Visit the live portfolio: **[pavlobondarenko.net](https://cameron917.vercel.app)**
 
 ## 📊 Project Status
 
@@ -545,7 +545,7 @@ All external links include `rel="noopener noreferrer"`:
 
 #### Technical SEO
 
-- **Sitemap**: `https://pavlobondarenko.net/sitemap.xml`
+- **Sitemap**: `https://cameron917.vercel.app/sitemap.xml`
 - **Robots.txt**: Allows all user agents, disallows disabled pages
 - **HSTS**: Forces HTTPS connections
 - **Security Headers**: X-Frame-Options, X-Content-Type-Options
@@ -769,7 +769,7 @@ The project is optimized for Vercel with:
 **Pavlo Bondarenko**
 Associate Product Manager @ Xe.com
 
-- 🌐 **Portfolio**: [pavlobondarenko.net](https://pavlobondarenko.net)
+- 🌐 **Portfolio**: [pavlobondarenko.net](https://cameron917.vercel.app)
 - 📧 **Email**: [bondarenkopavloua@yahoo.com](mailto:bondarenkopavloua@yahoo.com)
 - 💼 **LinkedIn**: [linkedin.com/in/mrbondarenko](https://www.linkedin.com/in/mrbondarenko/)
 - 📁 **GitHub**: [github.com/OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)

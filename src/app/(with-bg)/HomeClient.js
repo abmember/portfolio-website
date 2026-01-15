@@ -27,9 +27,9 @@ export default function HomeClient() {
                   <img src="/images/LOGO/pavlopic.png" alt="About Me" />
                 </div>
                 <div className="infos">
-                  <h1>Pavlo Bondarenko</h1>
+                  <h1>Cameron Cooke</h1>
                   <p className="text-lg">
-                    <i style={{ fontSize: '0.95rem' }}>Product @ Xe.com</i>
+                    <i style={{ fontSize: '0.95rem' }}>Full-Stack Software Developer</i>
                   </p>
                   <Link href="#" className="about-btn">
                     <img src="/images/icon.svg" alt="Button" />

@@ -54,7 +54,7 @@ const nextConfig = {
           {
             key: 'Access-Control-Allow-Origin',
             value: process.env.NODE_ENV === 'production' 
-              ? 'https://pavlobondarenko.net' 
+              ? 'https://cameron917.vercel.app' 
               : '*' // Allow all origins in development
           },
           {

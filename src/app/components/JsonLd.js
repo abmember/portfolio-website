@@ -6,8 +6,8 @@ export default function JsonLd() {
     {
       '@context': 'https://schema.org',
       '@type': 'Person',
-      name: 'Pavlo Bondarenko',
-      url: 'https://pavlobondarenko.net',
+      name: 'Cameron Cooke',
+      url: 'https://cameron917.vercel.app',
       jobTitle: 'Associate Product Manager',
       worksFor: {
         '@type': 'Organization',
@@ -15,7 +15,7 @@ export default function JsonLd() {
         url: 'https://www.xe.com',
         description: 'Leading currency services and international money transfers',
       },
-      image: 'https://pavlobondarenko.net/images/about_me_profile_pic.png',
+      image: 'https://cameron917.vercel.app/images/about_me_profile_pic.png',
       address: {
         '@type': 'PostalAddress',
         addressLocality: 'Denver',
@@ -50,8 +50,8 @@ export default function JsonLd() {
         },
       ],
       sameAs: [
-        'https://github.com/OfficialCodeVoyage',
-        'https://www.linkedin.com/in/mrbondarenko/',
+        'https://github.com/abmember',
+        'https://www.linkedin.com/in/cameron95/',
         'https://www.instagram.com/pasha.369.bond/',
         'https://www.youtube.com/@OfficialCodeVoyage',
       ],
@@ -81,19 +81,19 @@ export default function JsonLd() {
     {
       '@context': 'https://schema.org',
       '@type': 'WebSite',
-      name: 'Pavlo Bondarenko Portfolio',
-      url: 'https://pavlobondarenko.net',
-      description: 'Personal portfolio and project showcase of Pavlo Bondarenko - Associate Product Manager at Xe.com',
+      name: 'Cameron Cooke Portfolio',
+      url: 'https://cameron917.vercel.app',
+      description: 'Personal portfolio and project showcase of Cameron Cooke - Associate Product Manager at Xe.com',
       author: {
         '@type': 'Person',
-        name: 'Pavlo Bondarenko',
+        name: 'Cameron Cooke',
       },
       inLanguage: 'en-US',
       potentialAction: {
         '@type': 'SearchAction',
         target: {
           '@type': 'EntryPoint',
-          urlTemplate: 'https://pavlobondarenko.net/?search={search_term_string}',
+          urlTemplate: 'https://cameron917.vercel.app/?search={search_term_string}',
         },
         'query-input': 'required name=search_term_string',
       },
@@ -105,8 +105,8 @@ export default function JsonLd() {
       '@type': 'ProfilePage',
       mainEntity: {
         '@type': 'Person',
-        name: 'Pavlo Bondarenko',
-        url: 'https://pavlobondarenko.net',
+        name: 'Cameron Cooke',
+        url: 'https://cameron917.vercel.app',
       },
     },
 
@@ -119,25 +119,25 @@ export default function JsonLd() {
           '@type': 'ListItem',
           position: 1,
           name: 'Home',
-          item: 'https://pavlobondarenko.net',
+          item: 'https://cameron917.vercel.app',
         },
         {
           '@type': 'ListItem',
           position: 2,
           name: 'About',
-          item: 'https://pavlobondarenko.net/about',
+          item: 'https://cameron917.vercel.app/about',
         },
         {
           '@type': 'ListItem',
           position: 3,
           name: 'Projects',
-          item: 'https://pavlobondarenko.net/projects',
+          item: 'https://cameron917.vercel.app/projects',
         },
         {
           '@type': 'ListItem',
           position: 4,
           name: 'Contact',
-          item: 'https://pavlobondarenko.net/contact',
+          item: 'https://cameron917.vercel.app/contact',
         },
       ],
     },
@@ -146,7 +146,7 @@ export default function JsonLd() {
     {
       '@context': 'https://schema.org',
       '@type': 'ItemList',
-      name: 'Pavlo Bondarenko Projects Portfolio',
+      name: 'Cameron Cooke Projects Portfolio',
       description: '76+ innovative projects in AI, healthcare, fintech, and more',
       numberOfItems: 10,
       itemListElement: [
@@ -160,7 +160,7 @@ export default function JsonLd() {
             applicationCategory: 'HealthApplication',
             operatingSystem: 'iOS, Android',
             url: 'https://devpost.com/software/prescriberx',
-            screenshot: 'https://pavlobondarenko.net/images/projects/update5172025/v1/prescriberx.png',
+            screenshot: 'https://cameron917.vercel.app/images/projects/update5172025/v1/prescriberx.png',
           },
         },
         {
@@ -172,7 +172,7 @@ export default function JsonLd() {
             description: 'University Helper AI Bot using RAG technology',
             applicationCategory: 'EducationalApplication',
             url: 'https://devpost.com/software/tbd-tmzb5j',
-            screenshot: 'https://pavlobondarenko.net/images/projects/update5172025/v1/cougargpt.png',
+            screenshot: 'https://cameron917.vercel.app/images/projects/update5172025/v1/cougargpt.png',
           },
         },
         {
@@ -184,7 +184,7 @@ export default function JsonLd() {
             description: 'Emergency Button with AI features for healthcare',
             applicationCategory: 'HealthApplication',
             url: 'https://devpost.com/software/nurseai-gr7p84',
-            screenshot: 'https://pavlobondarenko.net/images/projects/update5172025/v1/nurseai.png',
+            screenshot: 'https://cameron917.vercel.app/images/projects/update5172025/v1/nurseai.png',
           },
         },
         {
@@ -196,7 +196,7 @@ export default function JsonLd() {
             description: 'Child Safety & Vehicle Integration using OpenCV and PyTorch',
             applicationCategory: 'SafetyApplication',
             url: 'https://devpost.com/software/pavlo_bondarenko_hello_world',
-            screenshot: 'https://pavlobondarenko.net/images/projects/update5172025/v1/ambertesla.png',
+            screenshot: 'https://cameron917.vercel.app/images/projects/update5172025/v1/ambertesla.png',
           },
         },
         {
@@ -208,7 +208,7 @@ export default function JsonLd() {
             description: 'Virtual Fitting Room for Online Shopping using OpenCV and Azure Cloud',
             applicationCategory: 'ShoppingApplication',
             url: 'https://devpost.com/software/e-commerce-app-b5lrem',
-            screenshot: 'https://pavlobondarenko.net/images/projects/update5172025/v1/SizeMeProject.png',
+            screenshot: 'https://cameron917.vercel.app/images/projects/update5172025/v1/SizeMeProject.png',
           },
         },
         {
@@ -220,7 +220,7 @@ export default function JsonLd() {
             description: 'Data-Driven Debugging Tool - Data Science Project',
             applicationCategory: 'DeveloperApplication',
             url: 'https://devpost.com/software/tbd-znafp1',
-            screenshot: 'https://pavlobondarenko.net/images/projects/update5172025/v1/astros.png',
+            screenshot: 'https://cameron917.vercel.app/images/projects/update5172025/v1/astros.png',
           },
         },
         {
@@ -232,7 +232,7 @@ export default function JsonLd() {
             description: 'AI Stock Market Predictor - Fintech Application',
             applicationCategory: 'FinanceApplication',
             url: 'https://devpost.com/software/seethefuture',
-            screenshot: 'https://pavlobondarenko.net/images/projects/update5172025/v1/seethefuture.png',
+            screenshot: 'https://cameron917.vercel.app/images/projects/update5172025/v1/seethefuture.png',
           },
         },
         {
@@ -244,7 +244,7 @@ export default function JsonLd() {
             description: 'After Surgery Recovery Assistant using LLM and OpenCV',
             applicationCategory: 'HealthApplication',
             url: 'https://devpost.com/software/tbd-ir3qd5',
-            screenshot: 'https://pavlobondarenko.net/images/projects/update5172025/v1/restoreio.png',
+            screenshot: 'https://cameron917.vercel.app/images/projects/update5172025/v1/restoreio.png',
           },
         },
         {
@@ -256,7 +256,7 @@ export default function JsonLd() {
             description: 'Helping seniors preserve their memories - LLM + Game',
             applicationCategory: 'HealthApplication',
             url: 'https://devpost.com/software/memory-palace-bnofj5',
-            screenshot: 'https://pavlobondarenko.net/images/projects/update5172025/v1/memorypalace.png',
+            screenshot: 'https://cameron917.vercel.app/images/projects/update5172025/v1/memorypalace.png',
           },
         },
       ],
@@ -271,7 +271,7 @@ export default function JsonLd() {
       description: 'Leading currency services and international money transfers',
       employee: {
         '@type': 'Person',
-        name: 'Pavlo Bondarenko',
+        name: 'Cameron Cooke',
         jobTitle: 'Associate Product Manager',
       },
     },
@@ -285,7 +285,7 @@ export default function JsonLd() {
       description: 'Software development and cloud solutions company',
       alumni: {
         '@type': 'Person',
-        name: 'Pavlo Bondarenko',
+        name: 'Cameron Cooke',
       },
     },
 
@@ -297,7 +297,7 @@ export default function JsonLd() {
       url: 'https://www.unt.edu',
       alumni: {
         '@type': 'Person',
-        name: 'Pavlo Bondarenko',
+        name: 'Cameron Cooke',
       },
     },
 
@@ -309,7 +309,7 @@ export default function JsonLd() {
       url: 'https://op.edu.ua/en',
       alumni: {
         '@type': 'Person',
-        name: 'Pavlo Bondarenko',
+        name: 'Cameron Cooke',
       },
     },
   ];

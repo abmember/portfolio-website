@@ -6,12 +6,12 @@ test.describe('Homepage', () => {
   });
 
   test('should display the homepage with correct title', async ({ page }) => {
-    await expect(page).toHaveTitle(/Pavlo Bondarenko/);
+    await expect(page).toHaveTitle(/Cameron Cooke/);
   });
 
   test('should show the hero section with name', async ({ page }) => {
     const heroText = await page.locator('h1').first();
-    await expect(heroText).toContainText('Pavlo Bondarenko');
+    await expect(heroText).toContainText('Cameron Cooke');
   });
 
   test('should have working navigation links', async ({ page }) => {

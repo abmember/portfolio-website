@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
                                 <li>
                                     <Link
                                         href="/"
-                                        title="Homepage - Pavlo Bondarenko Portfolio"
+                                        title="Homepage - Cameron Cooke Portfolio"
                                         aria-label="Go to homepage"
                                     >
                                         Home
@@ -20,7 +20,7 @@ const Footer: React.FC = () => {
                                 <li>
                                     <Link
                                         href="/about"
-                                        title="About Pavlo Bondarenko - Experience & Skills"
+                                        title="About Cameron Cooke - Experience & Skills"
                                         aria-label="Learn more about Pavlo"
                                     >
                                         About
@@ -39,7 +39,7 @@ const Footer: React.FC = () => {
                                     <Link
                                         href="/contact"
                                         title="Contact Pavlo - Get in Touch"
-                                        aria-label="Contact Pavlo Bondarenko"
+                                        aria-label="Contact Cameron Cooke"
                                     >
                                         Contact
                                     </Link>
@@ -48,12 +48,12 @@ const Footer: React.FC = () => {
                         </nav>
                         <p className="copyright" style={{marginTop: '-20px'}}>
                             3.6.9 &copy; Created with love by <span><a
-                                href="https://www.linkedin.com/in/mrbondarenko/"
+                                href="https://www.linkedin.com/in/cameron95/"
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                title="Connect with Pavlo Bondarenko on LinkedIn"
-                                aria-label="Pavlo Bondarenko LinkedIn profile"
-                            >Pavlo Bondarenko</a></span>
+                                title="Connect with Cameron Cooke on LinkedIn"
+                                aria-label="Cameron Cooke LinkedIn profile"
+                            >Cameron Cooke</a></span>
                         </p>
                     </div>
                 </div>

@@ -7,15 +7,15 @@ export default function BlogPostSeo({
   image, 
   publishedDate, 
   modifiedDate, 
-  authorName = 'Pavlo Bondarenko'
+  authorName = 'Cameron Cooke'
 }) {
   const structuredData = {
     '@context': 'https://schema.org',
     '@type': 'BlogPosting',
     headline: title,
     description: description,
-    url: `https://pavlobondarenko.net${url || ''}`,
-    image: image ? `https://pavlobondarenko.net${image}` : undefined,
+    url: `https://cameron917.vercel.app${url || ''}`,
+    image: image ? `https://cameron917.vercel.app${image}` : undefined,
     datePublished: publishedDate,
     dateModified: modifiedDate || publishedDate,
     author: {
@@ -24,15 +24,15 @@ export default function BlogPostSeo({
     },
     publisher: {
       '@type': 'Person',
-      name: 'Pavlo Bondarenko',
+      name: 'Cameron Cooke',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://pavlobondarenko.net/favicon.ico',
+        url: 'https://cameron917.vercel.app/favicon.ico',
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': `https://pavlobondarenko.net${url || ''}`,
+      '@id': `https://cameron917.vercel.app${url || ''}`,
     }
   };
 

@@ -1,7 +1,7 @@
 export const metadata = {
-  title: "Blog Post - Pavlo Bondarenko's Web Development Insights",
-  description: "Detailed articles and tutorials on web development, programming techniques, and technology insights from Pavlo Bondarenko. In-depth exploration of coding concepts and best practices.",
-  keywords: ["Pavlo Bondarenko article", "web development tutorial", "coding techniques", "programming guide", "tech insights"],
+  title: "Blog Post - Cameron Cooke's Web Development Insights",
+  description: "Detailed articles and tutorials on web development, programming techniques, and technology insights from Cameron Cooke. In-depth exploration of coding concepts and best practices.",
+  keywords: ["Cameron Cooke article", "web development tutorial", "coding techniques", "programming guide", "tech insights"],
   robots: {
     index: false,
     follow: false,
@@ -11,11 +11,11 @@ export const metadata = {
     noimageindex: true,
   },
   openGraph: {
-    title: "Blog Post - Pavlo Bondarenko's Web Development Insights",
-    description: "Detailed articles and tutorials on web development, programming techniques, and technology insights from Pavlo Bondarenko. In-depth exploration of coding concepts and best practices.",
+    title: "Blog Post - Cameron Cooke's Web Development Insights",
+    description: "Detailed articles and tutorials on web development, programming techniques, and technology insights from Cameron Cooke. In-depth exploration of coding concepts and best practices.",
   },
   twitter: {
-    title: "Blog Post - Pavlo Bondarenko's Web Development Insights",
-    description: "Detailed articles and tutorials on web development, programming techniques, and technology insights from Pavlo Bondarenko. In-depth exploration of coding concepts and best practices.",
+    title: "Blog Post - Cameron Cooke's Web Development Insights",
+    description: "Detailed articles and tutorials on web development, programming techniques, and technology insights from Cameron Cooke. In-depth exploration of coding concepts and best practices.",
   }
 }; 

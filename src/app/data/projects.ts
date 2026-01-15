@@ -53,7 +53,7 @@ export const projects: ProjectData[] = [
     category: 'AI Platform',
     description: 'AI-powered Student Assistant',
     image: '/images/projects/update5172025/CougarGPT - AI-Powered Student Assistant.png',
-    link: 'https://github.com/OfficialCodeVoyage/CougarGPT',
+    link: 'https://github.com/',
     technologies: ['Python', 'GPT-4', 'Flask', 'React'],
     featured: false,
     year: 2024
@@ -75,7 +75,7 @@ export const projects: ProjectData[] = [
     category: 'E-commerce Tool',
     description: 'Virtual Fitting Room Technology',
     image: '/images/projects/update5172025/SizeMe - Virtual Fitting Room.png',
-    link: 'https://github.com/OfficialCodeVoyage',
+    link: 'https://github.com/',
     technologies: ['Computer Vision', 'Python', 'React', 'Three.js'],
     featured: false,
     year: 2024
@@ -86,7 +86,7 @@ export const projects: ProjectData[] = [
     category: 'Educational App',
     description: 'Advanced Memory Training Platform',
     image: '/images/projects/update5172025/Memory Palace - Advanced Memory Training.png',
-    link: 'https://github.com/OfficialCodeVoyage',
+    link: 'https://github.com/',
     technologies: ['React', 'Node.js', 'MongoDB', 'WebGL'],
     featured: false,
     year: 2023
@@ -97,7 +97,7 @@ export const projects: ProjectData[] = [
     category: 'AI Vision',
     description: 'Predictive Analytics Platform',
     image: '/images/projects/update5172025/See The Future - Predictive Analytics.png',
-    link: 'https://github.com/OfficialCodeVoyage',
+    link: 'https://github.com/',
     technologies: ['Python', 'Machine Learning', 'React', 'D3.js'],
     featured: false,
     year: 2023
@@ -108,7 +108,7 @@ export const projects: ProjectData[] = [
     category: 'IoT Project',
     description: 'Smart Vehicle Integration System',
     image: '/images/projects/update5172025/Amber Tesla - Smart Vehicle Integration.png',
-    link: 'https://github.com/OfficialCodeVoyage',
+    link: 'https://github.com/',
     technologies: ['IoT', 'Python', 'React Native', 'Tesla API'],
     featured: false,
     year: 2023
@@ -119,7 +119,7 @@ export const projects: ProjectData[] = [
     category: 'Sports Analytics',
     description: 'Baseball Performance Analysis Platform',
     image: '/images/projects/update5172025/Astros - Performance Analytics Platform.png',
-    link: 'https://github.com/OfficialCodeVoyage',
+    link: 'https://github.com/',
     technologies: ['Python', 'Data Science', 'React', 'Chart.js'],
     featured: false,
     year: 2023
@@ -130,7 +130,7 @@ export const projects: ProjectData[] = [
     category: 'Computer Vision',
     description: 'License Plate Recognition System',
     image: '/images/projects/update5172025/Plate Recognition System.png',
-    link: 'https://github.com/OfficialCodeVoyage',
+    link: 'https://github.com/',
     technologies: ['OpenCV', 'Python', 'TensorFlow', 'React'],
     featured: false,
     year: 2023

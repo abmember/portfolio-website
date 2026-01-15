@@ -43,7 +43,7 @@ describe('Header Component', () => {
       render(<Header />);
       const linkedinButton = screen.getByRole('link', { name: /let's connect/i });
       expect(linkedinButton).toBeInTheDocument();
-      expect(linkedinButton).toHaveAttribute('href', 'https://www.linkedin.com/in/mrbondarenko/');
+      expect(linkedinButton).toHaveAttribute('href', 'https://www.linkedin.com/in/cameron95/');
     });
 
     it('should render the mobile menu toggle button', () => {

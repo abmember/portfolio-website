@@ -6,7 +6,7 @@ import Footer from "../components/Footer";
 import ErrorBoundary from "@/app/components/ErrorBoundary";
 
 export const metadata: Metadata = {
-    title: "Pavlo Bondarenko - Hello World!",
+    title: "Cameron Cooke - Hello World!",
 };
 
 export default function WithoutBgLayout({ 

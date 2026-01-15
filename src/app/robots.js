@@ -11,6 +11,6 @@ export default function robots() {
         '/credentials/admin'
       ],
     },
-    sitemap: 'https://pavlobondarenko.net/sitemap.xml',
+    sitemap: 'https://cameron917.vercel.app/sitemap.xml',
   }
 } 

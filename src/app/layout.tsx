@@ -18,28 +18,28 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-    title: "Pavlo Bondarenko - Product & AI",
-    description: "Personal website of Pavlo Bondarenko - Full-stack developer & tech enthusiast. Explore my projects, skills, and professional journey.",
-    keywords: ["Pavlo Bondarenko", "full-stack developer", "software engineer", "web development", "portfolio", "projects"],
-    authors: [{ name: "Pavlo Bondarenko" }],
+    title: "Cameron Cooke - Senior Full-Stack Developer",
+    description: "Personal website of Cameron Cooke - Senior Full-stack developer & tech enthusiast. Explore my projects, skills, and professional journey.",
+    keywords: ["Cameron Cooke", "full-stack developer", "software engineer", "web development", "portfolio", "projects"],
+    authors: [{ name: "Cameron Cooke" }],
     robots: "index, follow",
     openGraph: {
         type: "website",
         locale: "en_US",
-        url: "https://pavlobondarenko.net",
-        title: "Pavlo Bondarenko - Hello World!",
-        description: "Personal website of Pavlo Bondarenko - Full-stack developer & tech enthusiast. Explore my projects, skills, and professional journey.",
-        siteName: "Pavlo Bondarenko",
+        url: "https://cameron917.vercel.app",
+        title: "Cameron Cooke - Hello World!",
+        description: "Personal website of Cameron Cooke - Full-stack developer & tech enthusiast. Explore my projects, skills, and professional journey.",
+        siteName: "Cameron Cooke",
     },
     twitter: {
         card: "summary_large_image",
-        title: "Pavlo Bondarenko - Hello World!",
-        description: "Personal website of Pavlo Bondarenko - Full-stack developer & tech enthusiast. Explore my projects, skills, and professional journey.",
+        title: "Cameron Cooke - Hello World!",
+        description: "Personal website of Cameron Cooke - Full-stack developer & tech enthusiast. Explore my projects, skills, and professional journey.",
     },
     icons: {
         icon: '/favicon.ico',
     },
-    metadataBase: new URL("https://pavlobondarenko.net"),
+    metadataBase: new URL("https://cameron917.vercel.app"),
 };
 
 export default function RootLayout({
@@ -55,7 +55,7 @@ export default function RootLayout({
           <meta name="mobile-web-app-capable" content="yes" />
           <meta name="apple-mobile-web-app-capable" content="yes" />
           <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-          <meta name="apple-mobile-web-app-title" content="Pavlo Bondarenko" />
+          <meta name="apple-mobile-web-app-title" content="Cameron Cooke" />
 
           {/* Theme Color for Mobile Browsers */}
           <meta name="theme-color" content="#0F0F0F" />
@@ -89,7 +89,7 @@ export default function RootLayout({
           />
 
           {/* FontAwesome removed - using Iconoir icons instead */}
-          <link rel="canonical" href="https://pavlobondarenko.net" />
+          <link rel="canonical" href="https://cameron917.vercel.app" />
           <meta name="google-site-verification" content="your-verification-code" />
 
           {/* Performance optimizations */}

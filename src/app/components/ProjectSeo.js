@@ -7,7 +7,7 @@ export default function ProjectSeo({ name, description, images = [], url }) {
       productName={name}
       images={images}
       description={description}
-      brand="Pavlo Bondarenko"
+      brand="Cameron Cooke"
       offers={[]}
       aggregateRating={{
         ratingValue: '5',

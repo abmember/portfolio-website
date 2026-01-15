@@ -50,8 +50,8 @@ jobs:
       uses: treosh/lighthouse-ci-action@v10
       with:
         urls: |
-          https://pavlobondarenko.net
-          https://pavlobondarenko.net/projects
-          https://pavlobondarenko.net/contact
+          https://cameron917.vercel.app
+          https://cameron917.vercel.app/projects
+          https://cameron917.vercel.app/contact
         uploadArtifacts: true
         temporaryPublicStorage: true

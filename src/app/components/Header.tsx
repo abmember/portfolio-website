@@ -65,8 +65,8 @@ const Header: React.FC = () => {
                         <Link
                             href="/"
                             className="logo"
-                            title="Pavlo Bondarenko - Product Manager & Developer"
-                            aria-label="Pavlo Bondarenko homepage"
+                            title="Cameron Cooke - Product Manager & Developer"
+                            aria-label="Cameron Cooke homepage"
                         >
                             <span className={`logo-text ${ralewayDots.className}`}>Hello World!</span>
                         </Link>
@@ -77,7 +77,7 @@ const Header: React.FC = () => {
                                     <Link
                                         href="/"
                                         onClick={handleToggleMenu}
-                                        title="Go to homepage - Pavlo Bondarenko Portfolio"
+                                        title="Go to homepage - Cameron Cooke Portfolio"
                                         aria-label="Homepage"
                                     >
                                         Home
@@ -87,7 +87,7 @@ const Header: React.FC = () => {
                                     <Link
                                         href="/about"
                                         onClick={handleToggleMenu}
-                                        title="Learn about Pavlo Bondarenko - Experience, Education & Skills"
+                                        title="Learn about Cameron Cooke - Experience, Education & Skills"
                                         aria-label="About page"
                                     >
                                         About
@@ -107,7 +107,7 @@ const Header: React.FC = () => {
                                     <Link
                                         href="/contact"
                                         onClick={handleToggleMenu}
-                                        title="Contact Pavlo Bondarenko - Get in touch for opportunities"
+                                        title="Contact Cameron Cooke - Get in touch for opportunities"
                                         aria-label="Contact page"
                                     >
                                         Contact
@@ -117,7 +117,7 @@ const Header: React.FC = () => {
                         </nav>
 
                         <Link 
-                            href="https://www.linkedin.com/in/mrbondarenko/" 
+                            href="https://www.linkedin.com/in/cameron95/" 
                             target="_blank"
                             rel="noopener noreferrer"
                             className="linkedin-btn-glass"
